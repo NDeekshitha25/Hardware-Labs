@@ -38,7 +38,7 @@ Due to the extremely high resolution and length of these scanned laboratory repo
 
 Please use the secure links below to view the full documentation:
 
-* 📄 **[Analog Electronics Lab Report - Part 1 (View on Google Drive)]((https://drive.google.com/file/d/1HqRfyZbZoaWlBjhGcB3jRMuHJQVywfQP/view?usp=drive_link))**
+* 📄 **[Analog Electronics Lab Report - Part 1 (View on Google Drive)](https://drive.google.com/file/d/1HqRfyZbZoaWlBjhGcB3jRMuHJQVywfQP/view?usp=drive_link)**
 * 📄 **[Analog Electronics Lab Report - Part 2 (View on Google Drive)](https://drive.google.com/file/d/1bv2zLEoO0YG0lFNBlsT4vEe3CptIcML3/view?usp=drive_link)**
 
 ### Contents Include:
